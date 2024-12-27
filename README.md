@@ -24,3 +24,5 @@ Generated commit history for repository-2024-12-30-18-56-12
 
 - Fix bug in config (2024-12-27 21:00)
 
+- Refactor frontend code (2024-12-27 21:15)
+
