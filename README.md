@@ -14,3 +14,5 @@ Generated commit history for repository-2024-12-30-18-56-12
 
 - Fix bug in database (2024-12-25 21:15)
 
+- Add new feature to core (2024-12-27 20:00)
+
